@@ -1,8 +1,8 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
-        cssPath: 'styles/light.css',
+      'plugin-darth-ark': {
+        cssPath: 'styles/dark.css',
         darkMode: false
       }
     }
